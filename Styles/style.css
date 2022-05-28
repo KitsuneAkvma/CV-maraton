@@ -65,17 +65,21 @@ p {
 }
 
 .contact {
-  padding: 40px;
+  position: relative;
+  padding: 0px 40px 0px 40px;
+  top: 40px;
 }
 
 .tech {
-  width: 400px;
-  padding: 40px;
+  position: relative;
+  padding: 0px 40px 0px 40px;
+  top: 40px;
 }
 
 .soft {
-  width: 400px;
-  padding: 40px;
+  position: relative;
+  padding: 0px 40px 0px 40px;
+  top: 40px;
 }
 
 #exp-loc {
