@@ -1,0 +1,95 @@
+body {
+  font-family: 'Montserrat';
+  background: #e5e5e5;
+  color: #595959;
+}
+
+h1 {
+  color: darkred;
+  font-weight: 700;
+  font-size: 45px;
+}
+
+h2 {
+  color: darkgoldenrod;
+  font-weight: 700;
+  font-size: 22px;
+}
+
+h3 {
+  color: black;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+p {
+  font-size: 14px;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  width: 1200px;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.main-desc {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 8px 0px 88px;
+  width: 400px;
+}
+
+.projects {
+  padding: 0px 8px 0px 88px;
+}
+
+.expirence {
+  width: 655px;
+  padding: 0px 8px 8px 88px;
+}
+
+.education {
+  width: 242px;
+  padding: 0px 0px 0px 88px;
+  margin: 0px 0px 0px 0px;
+}
+
+.aside {
+  background: #1e2939;
+  width: 370px;
+  height: 1319px;
+  color: white;
+}
+
+.contact {
+  padding: 40px;
+}
+
+.tech {
+  width: 400px;
+  padding: 40px;
+}
+
+.soft {
+  width: 400px;
+  padding: 40px;
+}
+
+#exp-loc {
+  color: darkred;
+}
+
+#p-photo {
+  width: 370px;
+  height: 354px;
+  position: relative;
+  top: 40px;
+}
+
+#exp-time {
+  font-size: 12px;
+  color: rgb(116, 116, 116);
+}
