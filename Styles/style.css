@@ -14,12 +14,6 @@ h1 {
   font-size: 45px;
 }
 
-/* h2 {
-  color: darkgoldenrod;
-  font-weight: 700;
-  font-size: 22px; 
-}*/
-
 h3 {
   color: black;
   font-weight: 700;
@@ -69,7 +63,6 @@ p {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-
 }
 
 /*Main desc*/
@@ -124,6 +117,7 @@ p {
   font-size: 16px;
   line-height: 20px;
 }
+
 /*---Side bar---*/
 .aside {
   background: #1e2939;
